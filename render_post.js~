@@ -1,0 +1,26 @@
+const fs = require("fs");
+
+const date = new Date().toISOString().slice(0, 10);
+const data = JSON.parse(
+  fs.readFileSync(`posts/${date}_tacagent_result.json`)
+);
+
+const score = data.readiness_score;
+const missing = data.missing_layer;
+const question = data.next_question;
+
+const post = `Decision check (TAC):
+
+Readiness Score: ${score}%
+
+Missing layer: ${missing}
+
+Next question:
+${question}
+
+Tested via tacagent.ai
+`;
+
+fs.writeFileSync(`posts/${date}_tacagent_post.md`, post);
+
+console.log(post);
