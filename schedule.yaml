@@ -1,0 +1,17 @@
+identity:
+  email: sean4128@gmail.com
+
+daily:
+  platforms:
+    - x
+    - bluesky
+    - linkedin
+
+weekly:
+  platforms:
+    - substack
+    - medium
+    - reddit
+
+tool:
+  url: https://tacagent.ai/chat
