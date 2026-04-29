@@ -12,10 +12,9 @@ QUESTION=$(grep "^Decision question:" posts/${DATE}_tacagent_topic.md | sed 's/D
 curl -s -X POST https://tacagent.ai/api/analyze \
   -H "Content-Type: application/json" \
   -d "{
-    \"email\": \"$EMAIL\",
-    \"input\": \"$QUESTION\"
-  }" > posts/${DATE}_tacagent_result.json
-
+    \"email\": \"sean4128@gmail.com\",
+    \"input\": \"$DECISION\"
+  }"
 git add .
 git commit -m "daily tacagent news run $DATE"
 git push origin master
