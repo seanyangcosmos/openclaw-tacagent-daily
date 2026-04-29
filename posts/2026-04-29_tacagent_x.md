@@ -1,0 +1,1 @@
+Decision today: Hedge or hold through “FOMC + Big Tech” day (Apr 29, 2026)? tacagent.ai suggests: keep core, layer puts until 2pm ET, scale risk after guidance if breadth holds. Key checks: rate path, earnings revisions, vol regime. Tested with tacagent.ai — https://tacagent.ai/chat

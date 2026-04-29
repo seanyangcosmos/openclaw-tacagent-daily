@@ -1,0 +1,1 @@
+Topology note (Apr 29, 2026): “FOMC + Big Tech” day. Macro (rates) gates beta; micro (earnings breadth/guide) gates dispersion. tacagent.ai draft: hold core, add tactical hedge until 2pm ET. Tested with tacagent.ai — https://tacagent.ai/chat
