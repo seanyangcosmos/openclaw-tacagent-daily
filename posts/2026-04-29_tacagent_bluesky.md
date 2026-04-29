@@ -1,1 +1,1 @@
-Topology note (Apr 29, 2026): “FOMC + Big Tech” day. Macro (rates) gates beta; micro (earnings breadth/guide) gates dispersion. tacagent.ai draft: hold core, add tactical hedge until 2pm ET. Tested with tacagent.ai — https://tacagent.ai/chat
+Topology gate for “ship vs hold” AI feature (Apr 29, 2026): privacy (prompt PII scrub), latency (≤200ms P50/≤800ms P95), safety (kill‑switch). Draft: 10% guarded rollout; expand only if err <0.5%/h and complaints <5/10k. Tested with tacagent.ai — https://tacagent.ai/chat
