@@ -7,7 +7,7 @@ cd ~/.openclaw/workspace/tacagent-daily
 
 node fetch_news_topic.js
 
-DECISION=$(grep "^Decision question:" posts/${DATE}_tacagent_topic.md | sed 's/^Decision question: //')
+DECISION=$(grep -A1 "^Decision question:" posts/${DATE}_tacagent_topic.md | tail -n 1)
 
 echo "DECISION = $DECISION"
 
