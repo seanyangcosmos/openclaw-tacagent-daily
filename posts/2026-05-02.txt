@@ -1,0 +1,5 @@
+◇ injected env (1) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+Readiness Score
+0%
+Needs work
+
