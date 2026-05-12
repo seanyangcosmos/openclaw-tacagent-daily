@@ -1,0 +1,21 @@
+◇ injected env (1) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+✅ Decision generated
+As a healthcare provider, I’m faced with the increasing integration of AI into clinical decision-making, and I need to consider the ethical implications of relying on these tools, especially in hospice care. Should I trust AI suggestions for patient treatment plans, or do I risk losing the personal touch that is essential in end-of-life care? Balancing the efficiency and potential benefits of AI with the profound moral responsibility I have towards my patients is becoming an ever more complex challenge.
+Parsed decision structure
+• As a healthcare provider faced with AI integration in clinical decision-making
+• considering ethical implications in hospice care
+• balancing AI efficiency with personal touch and moral responsibility
+
+Readiness Score
+50%
+Needs work
+
+Area to clarify: resources
+This TAC layer is still missing.
+What resources, budget, capacity, or practical limits shape this decision?
+
+TAC Layer Validation
+intent: valid
+resources: invalid
+risk_boundary: valid
+execution_horizon: invalid
