@@ -1,0 +1,7 @@
+◇ injected env (1) from .env // tip: ⌘ suppress logs { quiet: true }
+✅ Decision generated
+As I read about the launch of a new platform focused on decision intelligence, I can't help but wonder if investing in this technology could streamline our operations and improve our decision-making process. Should I advocate for integrating this platform into our workflow now, or would it be wiser to wait and see how it performs within other companies before committing our resources? Balancing potential benefits against the risks of adopting new technology is definitely weighing on my mind.
+Readiness Score
+0%
+Needs work
+
