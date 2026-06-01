@@ -1,0 +1,20 @@
+◇ injected env (1) from .env // tip: ⌘ enable debugging { debug: true }
+✅ Decision generated
+Workday has just launched its new Adaptive Decision Intelligence tool, which combines planning questions, potential scenarios, and decision-making into a cohesive AI-driven experience. As a manager, I'm considering how this tool might streamline our planning processes and improve our decision-making efficiency. Should I invest time in learning this platform and integrate it into our team's strategy, or stick with our current systems that we've been using for years?
+Parsed decision structure
+• considering how this tool might streamline planning and improve decision-making efficiency
+• deciding whether to invest time in learning and integrating the new tool or stick with current systems
+
+Readiness Score
+75%
+Almost ready — one or two elements to confirm
+
+Area to clarify: execution_horizon
+This TAC layer is still missing.
+What timing, deadline, or execution window makes this decision meaningful?
+
+TAC Layer Validation
+intent: valid
+resources: valid
+risk_boundary: valid
+execution_horizon: invalid
