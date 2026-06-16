@@ -1,0 +1,9 @@
+◇ injected env (1) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+✅ Decision generated
+As businesses increasingly adopt AI to streamline decision-making processes, I'm considering whether to integrate this technology into my own operations. The potential for real-time insights sounds appealing, but I wonder about the reliability and the human element in critical decisions. 
+
+On the other hand, if I don't embrace these advancements, I risk falling behind competitors who are leveraging AI for efficiency and better forecasting. It's a tough call: should I invest in AI tools now, or wait until they become more established in the market?
+Readiness Score
+0%
+Needs work
+
