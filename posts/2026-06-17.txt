@@ -1,0 +1,9 @@
+◇ injected env (1) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+✅ Decision generated
+As a faculty member, you’ve noticed some suspicious assignments being submitted by your students, which seem too advanced or polished for their level. You have to decide whether to confront the students directly about the possibility of AI misuse or to first gather more evidence and discuss your concerns with fellow educators and administrators before taking any action.
+
+On one hand, addressing the issue directly could open a helpful dialogue and encourage students to reflect on their work. On the other hand, involving administrators might lead to policies or frameworks that better address AI usage, but it could also escalate the situation and create tension in the classroom.
+Readiness Score
+0%
+Needs work
+
