@@ -1,0 +1,15 @@
+◇ injected env (1) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+✅ Decision generated
+Raman Kaur's insights from the 2026 Elsevier Clinician of the Future Report emphasize the importance of including nursing voices in AI-driven healthcare decisions. I find myself wondering how this shift could change the dynamics in patient care and the roles of healthcare professionals. Should I consider advocating for more inclusion of nursing perspectives in my own workplace, knowing that their insights could enhance patient outcomes?
+
+The report highlights the potential for AI to analyze vast amounts of data, yet Kaur stresses that human intuition and experience remain irreplaceable. This makes me think about my reliance on technology in everyday decision-making. Am I overlooking the value of human input in my own work processes, especially when it comes to patient interactions?
+
+As the healthcare landscape evolves with AI integration, I recognize the need for continuous education on emerging technologies. I wonder if investing time in understanding AI would not only improve my practice but also empower me to contribute to discussions on its ethical use within nursing. Should I set aside time to attend workshops or training sessions focused on AI in healthcare?
+
+Kaur's emphasis on collaboration prompts me to think about fostering better teamwork between nurses and tech developers. If I could initiate discussions within my organization about bridging this gap, it might lead to more effective solutions for patient care. Would proposing a collaborative workshop on AI applications that include nursing staff be a good start?
+
+Ultimately, the inclusion of nursing perspectives in AI development seems crucial for creating balanced healthcare solutions. I need to evaluate how I can play a role in this transformation, either by raising awareness or simply by being an active participant in discussions. Is it time for me to take a more proactive approach in shaping the future of healthcare through collaboration and innovation?
+Readiness Score
+0%
+Needs work
+
