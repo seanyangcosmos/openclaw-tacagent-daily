@@ -1,0 +1,7 @@
+◇ injected env (1) from .env // tip: ⌘ suppress logs { quiet: true }
+✅ Decision generated
+Congresswoman Julie Fedorchak has spoken out against a proposed ban on new data centers, citing the significant economic impact of a quarter-trillion dollar investment. This puts her in a position where she must weigh the potential benefits of job creation and technological advancement against concerns about environmental impact and community disruption. As policymakers consider their options, they face the challenge of balancing economic growth with sustainable practices that could affect their constituents for years to come.
+Readiness Score
+0%
+Needs work
+
