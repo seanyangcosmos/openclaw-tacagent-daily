@@ -1,0 +1,9 @@
+◇ injected env (1) from .env // tip: ⌘ override existing { override: true }
+✅ Decision generated
+As a leader in a smaller community health system, I'm considering how to integrate AI into our decision-making processes to improve patient care and operational efficiency. We have limited resources compared to larger systems, so I need to weigh the potential benefits of AI against the costs and the training required for our staff.
+
+I wonder if starting with a specific area, like patient triage or administrative tasks, could make implementation more manageable. By piloting AI in a single department, I could better understand its effectiveness and gather data on outcomes before expanding its use across our organization.
+Readiness Score
+0%
+Needs work
+
