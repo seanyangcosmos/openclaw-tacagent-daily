@@ -1,0 +1,22 @@
+◇ injected env (1) from .env // tip: ⌘ enable debugging { debug: true }
+✅ Decision generated
+Abridge is rolling out its AI decision support tools to more healthcare providers, which could significantly streamline clinical workflows. As a clinician, I need to decide whether to adopt this technology in my practice. It may enhance patient care by aiding in decision-making, but I also have to consider the learning curve and how it fits with our current systems.
+Parsed decision structure
+• Abridge is rolling out AI decision support tools to more providers, potentially streamlining clinical workflows
+• As a clinician, I need to decide whether to adopt this technology in my practice
+• It may enhance patient care by aiding in decision-making
+• I have to consider the learning curve and how it fits with our current systems
+
+Readiness Score
+75%
+Almost ready — one or two elements to confirm
+
+Area to clarify: execution_horizon
+This TAC layer is still missing.
+What timing, deadline, or execution window makes this decision meaningful?
+
+TAC Layer Validation
+intent: valid
+resources: valid
+risk_boundary: valid
+execution_horizon: invalid
