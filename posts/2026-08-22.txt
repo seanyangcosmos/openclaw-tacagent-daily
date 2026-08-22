@@ -1,0 +1,7 @@
+◇ injected env (1) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+✅ Decision generated
+I just read that Abridge is expanding its AI decision support system to more clinicians, aiming to become an essential tool in healthcare. This could mean improved efficiency in patient care and potentially better outcomes, but I'm pondering how much reliance on AI could change the dynamics between doctors and patients. 
+
+If I were a healthcare provider, I’d need to consider the implications on my practice. Would integrating this technology enhance my decision-making, or would it create dependency on the AI, leading to less critical thinking on my part? The balance between leveraging technology and maintaining personal touch and expertise could be a crucial factor in patient satisfaction.
+
+Moreover, I should think about the potential investments required for training and implementation of this AI system. While it could streamline processes and improve patient interactions in the long run, the upfront costs and the need for ongoing adjustments to workflows could be significant. Making this decision would require careful weighing of the benefits against the financial and operational challenges.
